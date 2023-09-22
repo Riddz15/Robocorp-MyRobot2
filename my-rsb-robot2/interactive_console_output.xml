@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1.1 (Python 3.10.12 on win32)" generated="20230920 17:21:37.799" rpa="false" schemaversion="4">
+<suite id="s1" name="Robot Interactive Console" source="c:\Users\E1451099\.vscode\extensions\robocorp.robotframework-lsp-1.11.0\src\robotframework_ls\vendored\robotframework_interactive\robot_interactive_console.robot">
+<test id="s1-t1" name="Default Task/Test" line="5">
+<kw name="Interpreter Main Loop" library="MainLoop">
+<kw name="Archive Folder With Zip" library="RPA.Archive">
+<doc>Create a zip archive of a folder</doc>
+<msg timestamp="20230922 12:51:18.056" level="FAIL">Keyword 'RPA.Archive.Archive Folder With Zip' expected 2 to 6 arguments, got 0.</msg>
+<status status="FAIL" starttime="20230922 12:51:18.051" endtime="20230922 12:51:18.057"/>
+</kw>
+<status status="PASS" starttime="20230920 17:21:37.862" endtime="20230922 14:03:20.965"/>
+</kw>
+<status status="PASS" starttime="20230920 17:21:37.862" endtime="20230922 14:03:20.969"/>
+</test>
+<status status="PASS" starttime="20230920 17:21:37.799" endtime="20230922 14:03:20.994"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Interactive Console">Robot Interactive Console</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
